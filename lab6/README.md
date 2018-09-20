@@ -1,1 +1,1 @@
-lab1 _ OOPlab6_OOP
+lab6_OOP
