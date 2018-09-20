@@ -1,0 +1,29 @@
+[33mcommit eedc733001abbad105b6f10400da64bb76af784e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Maria <munteanu.maria98@gmail.com>
+Date:   Thu Sep 20 10:21:15 2018 +0300
+
+    set header with big front
+
+[33mcommit a54b98951fb36757b3757d1869d60c3e48eaa0c3[m
+Author: Maria <munteanu.maria98@gmail.com>
+Date:   Thu Sep 20 10:13:15 2018 +0300
+
+    create README
+
+[33mcommit bcb547ba579cbd874f73ad18247b9b5615edf5b8[m
+Author: Maria <munteanu.maria98@gmail.com>
+Date:   Thu Sep 20 09:04:26 2018 +0300
+
+    changed x.txt
+
+[33mcommit 63a5e0b278c41d0a85610edf45efdba00e9f8e45[m
+Author: Maria <munteanu.maria98@gmail.com>
+Date:   Thu Sep 20 09:00:49 2018 +0300
+
+    modify x.txt
+
+[33mcommit c308fd7836c0d9d3dbda801fee91aef31ab7fb31[m
+Author: Maria <munteanu.maria98@gmail.com>
+Date:   Thu Sep 20 08:57:20 2018 +0300
+
+    create x.txt
