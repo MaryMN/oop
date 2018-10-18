@@ -4,4 +4,4 @@
 
 ##### Task1
 
-* _**Implement the classes in any OOP progamming language according to the following class diagram: https://www.uml-diagrams.org/examples/class-example-hospital-organization.png **_
+* **_Implement the classes in any OOP progamming language according to the following class diagram: https://www.uml-diagrams.org/examples/class-example-hospital-organization.png
