@@ -10,7 +10,7 @@ public class F extends E {
 
     @Override
     public String toString() {
-        return
+        return "x="+x+" , "+
                 "f='" + f + '\'' +
                 ", e='" + e + '\'' +
                 ", d='" + d + '\'' +

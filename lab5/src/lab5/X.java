@@ -1,15 +1,15 @@
 package lab5;
 
 public class X {
-    private String name;
-
-    public X(String name) {
-        this.name = name;
+    private String x;
+    public X (){}
+    public X(String x)
+    {
+        this.x = x;
     }
 
     @Override
     public String toString() {
-        return
-                "name='" + name + '\'' ;
+        return x;
     }
 }

@@ -4,8 +4,8 @@ import java.util.concurrent.Callable;
 
 public class main {
     public static void main(String[] args) {
-        A a = new A("a", "x");
-        System.out.println(""+a);
+        A a = new A("A");
+        System.out.println(""+a.toString());
         B b = new B("b");
         System.out.println(""+b);
         C c = new C ("c");

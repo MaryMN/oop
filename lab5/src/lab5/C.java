@@ -10,7 +10,7 @@ public class C extends B {
 
     @Override
     public String toString() {
-        return
+        return "x="+x+" , "+
                 "c='" + c + '\'' +
                 ", b='" + b + '\'' +
                 ", a='" + a + '\''

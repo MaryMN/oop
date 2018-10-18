@@ -11,7 +11,7 @@ public class G extends F {
 
     @Override
     public String toString() {
-        return
+        return "x="+x+" , "+
                 "g='" + g + '\'' +
                 ", f='" + f + '\'' +
                 ", e='" + e + '\'' +

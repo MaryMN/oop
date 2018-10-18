@@ -5,16 +5,16 @@ public class B extends A {
 
     public B(String b) {
 
-        super("a", "x");
         this.b = b;
     }
     public B(){
-        super("a", "x");
+
     }
 
     @Override
     public String toString() {
-        return "b="+b+" , "+
+        return "x="+x+" , "+
+                "b="+b+" , " +
                 "a=" + a;
     }
 }

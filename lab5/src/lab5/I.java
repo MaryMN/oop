@@ -11,7 +11,7 @@ public class I extends H {
 
     @Override
     public String toString() {
-        return
+        return "x="+x+" , "+
                 "i='" + i + '\'' +
                 ", h='" + h + '\'' +
                 ", g='" + g + '\'' +
