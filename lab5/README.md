@@ -40,4 +40,4 @@ _**Each class should have their own String property with corresponding letter as
 
 * _**Chackout again if any changes when printing object of class J.**_
 
-4.**_Make the property x from class H private and checkout now if any errors appeared and try to solve them._**
+4. **_Make the property x from class H private and checkout now if any errors appeared and try to solve them._**
