@@ -32,12 +32,12 @@ _**Each class should have their own String property with corresponding letter as
 
 * _**Print a object of J and see the result.**_
 
-1. _**Go in class D and create also a state with the same name x as in class A and give another initial value.**_
+2. _**Go in class D and create also a state with the same name x as in class A and give another initial value.**_
 
 * _**Print the result and checkout if any changes.**_
 
-1. _**Now do the same in class H and add to a state x another initial value.**_
+3. _**Now do the same in class H and add to a state x another initial value.**_
 
 * _**Chackout again if any changes when printing object of class J.**_
 
-1.**_Make the property x from class H private and checkout now if any errors appeared and try to solve them._**
+4. **_Make the property x from class H private and checkout now if any errors appeared and try to solve them._**
