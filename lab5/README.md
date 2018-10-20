@@ -23,7 +23,7 @@ _**Each class should have their own String property with corresponding letter as
 
 * _**Checkout for errors if appeared in child classes and try to resolve the issue.**_
 
-1. _**Finally print J and see what happens states does it have.**_
+4. _**Finally print J and see what happens states does it have.**_
 
 
 ##### Task3
