@@ -3,7 +3,7 @@
 
 ## Inheritance
 
-##### Task1
+##### Task 1
 
 1.  _**Create 10 classes with their names as first 10 aphabetical letters (A, B, C, D, ... , J).
 Each next class inherits from previous letter class (ex: B inherits from A, C inherits from B ...).**_
@@ -41,3 +41,5 @@ _**Each class should have their own String property with corresponding letter as
 * _**Chackout again if any changes when printing object of class J.**_
 
 4. **_Make the property x from class H private and checkout now if any errors appeared and try to solve them._**
+
+[See here your tasks(Unfortunately, you will see only the last task)](https://github.com/MaryMN/oop/tree/master/lab5/src/lab5)
