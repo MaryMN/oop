@@ -13,6 +13,8 @@ It should be possible to instantiate box object in 3 ways:
 * With 3 parameters for each attribute.
 * The box must have also 2 methods for calculation of its surface area and volume.
 
+[See here the first task](https://github.com/MaryMN/oop/tree/master/lab2/task1/src/com/company/lab2)
+
 
 
 ### Task2
@@ -21,4 +23,6 @@ It should be possible to instantiate box object in 3 ways:
 
 Implement add and get methods for adding elements to the queue and extraction of them.
 
-Also implement two methods which should determine if the queue is empty or full. (isEmpty(), isFull()).
+Also implement two methods which should determine if the queue is empty or full. `<isEmpty(), isFull()>`.
+
+[See here the second task](https://github.com/MaryMN/oop/tree/master/lab2/task2/src/com/company/lab2/task2)
