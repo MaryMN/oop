@@ -5,6 +5,8 @@
 *  _**Create a program where you can manipulate a monitor object which has color, dimensions and resolution. 
 Implement actions of creation, update of monitor properties and comparison between two monitors.**_
 
+[See here the first task](https://github.com/MaryMN/oop/tree/master/lab1/src/com/company)
+
 
 #### Task2
  *  _**Create a program where you can create and have some actions to the following objects: university and student. 
@@ -13,3 +15,5 @@ foundationYear and a list of students created earlier.**_
 
 *  _**In main program you should be able to create 3 universities with some students in it and calculate the average media between them and 
 print the result in console.**_
+
+[See here the second task](https://github.com/MaryMN/oop/tree/master/lab1/task2/src/com/company/task2)
